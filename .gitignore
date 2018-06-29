@@ -108,3 +108,5 @@ db_url.txt
 .cache/
 *.pickle
 .envrc
+db_url.txt
+gmaps_key.txt
